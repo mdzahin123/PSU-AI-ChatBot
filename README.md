@@ -6,3 +6,4 @@ What you need to run
    -.\venv\Scripts\Activate.ps1 (activate virtual enviroment)
 3) Also on your terminal file directory run this(to install packages):
 pip install langchain==0.3.27 wikipedia langchain-community langchain-openai langchain-anthropic python-dotenv pydantic duckduckgo-search==8.1.1 ddgs==9.4.0
+4) for psu only input prompt type this in the same string "only pennstate links"
